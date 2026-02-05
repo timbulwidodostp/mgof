@@ -2,4 +2,4 @@
 1
 2
 3
-p r2c Computes several goodness of fit measures for count data models Use r2c With STATA 19
+p mgof Goodness-of-fit tests for multinomial data Use mgof With STATA 19
